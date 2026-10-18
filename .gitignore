@@ -1,0 +1,30 @@
+# Visual Prolog build artifacts
+*.exe
+*.obj
+*.err
+*.res
+*.map
+*.tds
+*.ilk
+*.pdb
+*.lib
+*.exp
+*.idb
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+out/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# Local user settings
+*.vip
+*.vipcfg
